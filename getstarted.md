@@ -64,14 +64,14 @@ The instructions above explain how to use Beautiful Jekyll in the easiest way: b
      color: green }
 
 .gs-section-02 p {
-     font-size: 30px;
+     font-size: 20px;
 }
 
  .gs-section-03 h3 { 
      color: blue }
 
 .gs-section-03 p {
-     font-size: 30px;
+     font-size: 10px;
 }
  
 </style>
