@@ -12,7 +12,8 @@ title: Mah homework page
 description: This website is for class.
 
 # site url
-url: https://jslandes.github.io/paf-514-website-example
+url: https://jslandes.github.io
+baseurl: /paf-514-website-example
 
 # Your name to show in the footer
 author: Jazzy Landes
