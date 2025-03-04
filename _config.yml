@@ -20,6 +20,7 @@ author: Jazzy Landes
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://jslandes.github.io/paf-514-website-example/"
   About Me: "aboutme"
   Text Analysis: "textsentimentanalysis"
   Resources:
