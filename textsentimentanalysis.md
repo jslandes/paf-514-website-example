@@ -912,7 +912,7 @@ packed.bubble.chart <- ggplot() +
 print(packed.bubble.chart)
 ```
 
-![Packed bubble chart]([https://beautifuljekyll.com](https://jslandes.github.io/paf-514-website-example/assets/img/packedbubble.jpg)
+![Packed bubble chart](https://jslandes.github.io/paf-514-website-example/assets/img/packedbubble.jpg)
 
 # Conclusion
 
