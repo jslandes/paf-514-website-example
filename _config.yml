@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Mah homework page
+title: Jazzy Landes
 
 # description
-description: This website is for class.
+description: A website for class and sharing code throughs
 
 # site url
 url: https://jslandes.github.io/
@@ -21,6 +21,7 @@ author: Jazzy Landes
 
 navbar-links:
   About Me: "aboutme"
+  Text Analysis: "textsentimentanalysis"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -54,7 +55,7 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jazmyne-landes
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
