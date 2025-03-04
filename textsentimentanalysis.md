@@ -912,7 +912,7 @@ packed.bubble.chart <- ggplot() +
 print(packed.bubble.chart)
 ```
 
-![](codethroughpage_files/figure-markdown_github/unnamed-chunk-26-1.png)
+![Packed bubble chart]([https://beautifuljekyll.com](https://jslandes.github.io/paf-514-website-example/assets/img/packedbubble.jpg)
 
 # Conclusion
 
